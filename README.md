@@ -1,6 +1,9 @@
 # **ScriptDoc** for Corel™ Paint Shop Pro™
 Documentation of the available Python commands for Paint Shop Pro™ X5 (and up)
 
+
+[Official (but very old) Documentation](http://www.corel.com/6763/psp_downloads/pub/script.pdf)
+
 ## About
 Display general information about this application. 
 ## ActiveDocDropboxSharing
